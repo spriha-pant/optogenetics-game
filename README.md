@@ -5,7 +5,7 @@
 This game is an oversimplified simulation for public learning of the optogenetics lab technique. Optogenetics uses light to turn specific brain cells (neurons) on or off instantly, like a light switch, by inserting light-sensitive proteins into them.
 
 ### Usage
-The complete game is **optogenetics_game_standalone.html**. Downloading and running that runs the entire game. No prerequisites needed. It's an html game that can run on any PC browser.
+The complete game is **optogenetics_game_standalone.html**. Downloading and running that runs the entire game, or just click the "Play Now" link in this README. No prerequisites needed. It's an html game that can run on any PC browser.
 
 ### Assets
 All images are hand-drawn and present in the assets/ folder.
